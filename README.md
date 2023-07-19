@@ -20,8 +20,7 @@ conclusiones obtenidas.
 
  
 Se llevo a cabo el procesamiento, limpieza y análisis de las variables presentes en nuestros datos en busca de patrones, tendencias, relaciones y anomalías dando
-lugar a información útil para la generación de gráficos y posteriores conclusiones para la realización del proyecto. En el archivo EDA podrás observar una 
-serie de transformaciones, la realización de gráficos en busca de información, análisis sobre los mismos y las conclusiones de mercado que se podrían tomar en base a lo observado. Con las conclusiones se plantearon luego 3 **KPIs 
+lugar a información útil para la generación de gráficos y posteriores conclusiones para la realización del proyecto. En el [archivo EDA](https://github.com/germo24/PI_Visualizaciones/blob/main/EDA.ipynb) podrás observar una serie de transformaciones, la realización de gráficos en busca de información, análisis sobre los mismos y las conclusiones de mercado que se podrían tomar en base a lo observado. Con las conclusiones se plantearon luego 3 **KPIs 
 (Key Performance Indicator)** con los que se buscará proporcionar una medida cuantificable y objetiva del rendimiento del negocio: <br>
 
 <br>
@@ -34,7 +33,7 @@ serie de transformaciones, la realización de gráficos en busca de información
 <img src="_src/images/img_2.png"  height=450>
 </p>
 
- Hemos establecido como objetivo aumentar en un 9% la media general de accesos cada 100 hogares en el lapso de un año, es un objetivo alcanzable debido que el crecimiento anual de esta variable ronda el 6%. Realizamos un 2 gráficos en los que podemos ver la media de accesos por provincia y la evolución de los accesos en el tiempo y una meta de accesos a alcanzar que varía según el objetivo que se fije. <br>
+ Hemos establecido como objetivo aumentar en un 9% la media general de accesos cada 100 hogares en el lapso de un año, es un objetivo alcanzable debido que el crecimiento anual de esta variable ronda el 6%. Realizamos 2 gráficos en los que podemos ver la media de accesos por provincia y la evolución de los accesos en el tiempo. También, podremos observar un campo con la meta de accesos a alcanzar que varía según el objetivo que se fije. <br>
  <br>
   
   **2- Aumentar la velocidad media (Mbps) un 15% a nivel nacional en el próximo año.** 
@@ -47,7 +46,7 @@ serie de transformaciones, la realización de gráficos en busca de información
 
 Observamos que la velocidad media de bajada (Mbps) a nivel nacional es bastante baja y que el panorama es incluso peor si se analiza a nivel provincial, teniendo 
 una distribución desigual, contando con 4 provincias que sesgan o suben considerablemente la media general. Viendo esto, nos hemos propuesto subir la velocidad media de bajada en un 15% a nivel nacional, centrandonós principalmente en las zonas que cuenten con amplías poblaciones y velocidades reducidas. Se realizaron 
-gráficos para describir tanto la velocidad media de bajada a nivel provincial como su evolución en el tiempo, incluyendo también la métrica sobre la velocidad media actual y la meta que se debe alcanzar el siguiente año.  <br>
+gráficos para describir tanto la velocidad media de bajada a nivel provincial como su evolución en el tiempo, incluyendo también las métrica sobre la velocidad media actual y la meta que se debe alcanzar el siguiente año.  <br>
 
   <br>
   
@@ -61,9 +60,9 @@ gráficos para describir tanto la velocidad media de bajada a nivel provincial c
 </p>
 
 A través del análisis, hemos encontrado que en distintas provincias sigue existiendo un alto uso de tecnologías obsoletas con capacidades de velocidad y transmisión
-de datos baja. Por esto, nos hemos planteado reducir el uso de estas tecnologías obsoletas, mejorando las velocidades y el uso de internet, ofreciendo en zonas
-con alto uso de tecnologías ADSL la prestación de servicios de Cablemodem y Fibra óptica, buscando aumentar su uso a nivel nacional a un 65% y 10% respectivamente.
-Se generó un gráfico con el uso de las tecnologías por provincia, exceptuando aquellas más desarrolladas para facilitar la visualización de nuestro mercado objetivo. Además, tenemos 2 elementos que nos cuentan la cantidad de clientes que utilizan cada una de las tecnologías y la meta que se ha propuesto alcanzar. <br>
+de datos baja. Por esto, nos hemos planteado reducir el uso de estas, mejorando las velocidades y el uso de internet general, ofreciendo sobre todo en zonas
+con alto uso de tecnologías ADSL la prestación de servicios de Cablemodem y Fibra óptica, buscando aumentar su uso a nivel nacional en un 65% y 10% respectivamente.
+Se generó un gráfico con el uso de las tecnologías por provincia, exceptuando aquellas más desarrolladas para facilitar la visualización de nuestro mercado objetivo. Además, tenemos 2 elementos que nos indican la cantidad de clientes que utilizan cada una de las tecnologías y la meta que se ha propuesto alcanzar. <br>
 <br>
 
 # Dashboard
