@@ -1,7 +1,7 @@
 # <h1 align="center"> Proyecto de Data Analytics </h1> <br>
 
 <p align="center">
-<img src="_src/images/img_analytics.jpg"  height=500>
+<img src="_src/images/img_analytics.jpg"  height=400>
 </p> <br>
 
 # Introducción
@@ -15,7 +15,7 @@ conclusiones obtenidas.
 # EDA (Exploratoy Data Analysis) <br>
 
 <p align='center'>
-<img src = "_src/images/img_EDA.jpg" height = 400>
+<img src = "_src/images/img_EDA.jpg" height = 350>
 <p>
 
  
@@ -86,7 +86,6 @@ Se realizó un Dashboard dinámico en el que se caracterizan variables generales
  [Página oficial del ENACOM](https://datosabiertos.enacom.gob.ar/home) <br>
  [Datasets utilizados](https://github.com/germo24/PI_Visualizaciones/tree/main/_src/Dataset/Originales) 
 
- <br>
 
 # Disclaimer
 De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los proyectos propuestos son exclusivamente pedagógicos, con el objetivo de realizar
