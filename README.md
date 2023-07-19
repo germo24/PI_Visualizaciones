@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="_src/images/img_analytics.jpg"  height=400>
-</p> <br>
+</p>
 
 # Introducción
 
