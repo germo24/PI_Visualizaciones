@@ -1,7 +1,7 @@
 # <h1 align="center"> Proyecto de Data Analytics </h1> <br>
 
 <p align="center">
-<img src="_src/images/img_analytics.jpg"  height=800>
+<img src="_src/images/img_analytics.jpg"  height=500>
 </p> <br>
 
 # Introducción
@@ -28,7 +28,7 @@ serie de transformaciones, la realización de gráficos en busca de información
   **1 - Aumentar en un 9% el accesso cada 100 hogares a nivel nacional en el próximo año.**
 
   <p align="center">
-<img src="_src/images/img_2"  height=450>
+<img src="_src/images/img_2.png"  height=450>
 </p>
 
  Hemos establecido como objetivo aumentar en un 9% la media general de accesos cada 100 hogares en el lapso de un año, es un objetivo alcanzable debido que el crecimiento anual de esta variable ronda el 6%. Realizamos un 2 gráficos en los que podemos ver la media de accesos por provincia y la evolución de los accesos en el tiempo y una meta de accesos a alcanzar que varía según el objetivo que se fije. <br>
@@ -37,7 +37,7 @@ serie de transformaciones, la realización de gráficos en busca de información
   **2- Aumentar la velocidad media (Mbps) un 15% a nivel nacional en el próximo año.**
 
   <p align="center">
-<img src="_src/images/img_3"  height=450>
+<img src="_src/images/img_3.png"  height=450>
 </p>
 
 Observamos que la velocidad media de bajada (Mbps) a nivel nacional es bastante baja y que el panorama es incluso peor si se analiza a nivel provincial, teniendo 
@@ -49,7 +49,7 @@ gráficos para describir tanto la velocidad media de bajada a nivel provincial c
   tecnologías obsoletas como ADSL.**
 
   <p align="center">
-<img src="_src/images/img_4"  height=450>
+<img src="_src/images/img_4.png"  height=450>
 </p>
 
 A través del análisis, hemos encontrado que en distintas provincias sigue existiendo un alto uso de tecnologías obsoletas con capacidades de velocidad y transmisión
@@ -63,7 +63,7 @@ Se generó un gráfico con el uso de las tecnologías por provincia, exceptuando
 Se realizó un Dashboard dinámico en el que se caracterizan variables generales del mercado de internet y 3 segmentos que contienen las KPIs con visualizaciones seleccionadas para su entendimiento, medición y progreso actual. Pueden encontrarlo en el [archivo Telecomunicaciones_dashboard (https://github.com/germo24/PI_Visualizaciones/blob/main/Telecomunicaciones_dashboard.pbix).
 
   <p align="center">
-<img src="_src/images/img_1"  height=450>
+<img src="_src/images/img_1.png"  height=450>
 </p>
 
 
