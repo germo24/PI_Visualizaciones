@@ -68,18 +68,13 @@ Se generó un gráfico con el uso de las tecnologías por provincia, exceptuando
 
 # Dashboard
 
-  <p align="center">
-<img src="_src/images/img_dashboard.png"  height=200>
-</p> <br>
-
-
 Se realizó un Dashboard dinámico en el que se caracterizan variables generales del mercado de internet y 3 segmentos que contienen las KPIs con visualizaciones seleccionadas para su entendimiento, medición y progreso actual. Pueden encontrarlo en el [archivo Telecomunicaciones_dashboard](https://github.com/germo24/PI_Visualizaciones/blob/main/Telecomunicaciones_dashboard.pbix).
 
+<br>
   <p align="center">
 <img src="_src/images/img_1.png"  height=450>
 </p>
 
-<br>
 
 # Fuentes de Datos
 
